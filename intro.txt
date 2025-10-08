@@ -1,0 +1,20 @@
+Giới thiệu
+    Nguyễn Thanh Sơn
+    Quê: Bến Tre
+    Giới tính: Nam
+    Ngày sinh: 11/05/2003
+    MSSV: 221958
+Sở thích: 
+    Chơi game
+    Lập trình
+    Xem phim
+Kỹ năng:
+    Lập trình C, C++, Python
+    Sử dụng Git, GitHub
+    Làm việc nhóm
+Kế hoạch học tập:
+- Đi học lập trình
+- Đi học T.a
+- Làm dự án thực tế
+- Học trên internet
+- Xây dựng mối quan hệ
