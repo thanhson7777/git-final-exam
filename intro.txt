@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello, this is Nguyễn Thanh Sơn
+=======
+Xin chào, tôi là <Họ Tên>
+>>>>>>> feature-update
     Nguyễn Thanh Sơn
     Quê: Bến Tre
     Giới tính: Nam
@@ -18,3 +22,4 @@ Kế hoạch học tập:
 - Làm dự án thực tế
 - Học trên internet
 - Xây dựng mối quan hệ
+Conflict resolved on <08/10/2025>
